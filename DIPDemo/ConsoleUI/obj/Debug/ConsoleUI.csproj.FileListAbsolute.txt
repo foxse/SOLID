@@ -1,0 +1,10 @@
+D:\home\ebabaev\projects\DIPDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\home\ebabaev\projects\DIPDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\home\ebabaev\projects\DIPDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\home\ebabaev\projects\DIPDemo\ConsoleUI\bin\Debug\DemoLibrary.dll
+D:\home\ebabaev\projects\DIPDemo\ConsoleUI\bin\Debug\DemoLibrary.pdb
+D:\home\ebabaev\projects\DIPDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+D:\home\ebabaev\projects\DIPDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\home\ebabaev\projects\DIPDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+D:\home\ebabaev\projects\DIPDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\home\ebabaev\projects\DIPDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
